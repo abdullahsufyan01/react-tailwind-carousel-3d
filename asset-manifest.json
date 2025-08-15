@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-carousel-3d/static/css/main.41e599f6.css",
+    "main.js": "/react-tailwind-carousel-3d/static/js/main.6199c47d.js",
+    "static/js/453.93f1bdd1.chunk.js": "/react-tailwind-carousel-3d/static/js/453.93f1bdd1.chunk.js",
+    "index.html": "/react-tailwind-carousel-3d/index.html",
+    "main.41e599f6.css.map": "/react-tailwind-carousel-3d/static/css/main.41e599f6.css.map",
+    "main.6199c47d.js.map": "/react-tailwind-carousel-3d/static/js/main.6199c47d.js.map",
+    "453.93f1bdd1.chunk.js.map": "/react-tailwind-carousel-3d/static/js/453.93f1bdd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e599f6.css",
+    "static/js/main.6199c47d.js"
+  ]
+}
